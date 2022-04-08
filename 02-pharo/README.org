@@ -1,0 +1,15 @@
+#+title: Pharo okruženje
+#+author: Vladimir Inđić
+#+options: toc:nil
+#+options: date:nil
+
+* Instalacija Pharo okruženja
+
+  Da biste koristili /Pharo/ okruženje, neophodno je da instalirate i pokrenete Pharo virtualnu mašinu.
+  Najjednostavniji način da ovo uradite jeste preko [[https://pharo.org/download][/Pharo Launcher/-a]].
+  Njega ćete instalirati prateći [[https://pharo-project.github.io/pharo-launcher/installation/][sledeće uputstvo]] u zavisnosti od operativnog sistema koji koristite.
+  Nakon uspešne instalacije, potrebno je pokrenuti pomenuti /Launcher/. Zatim, treba kreirati virtualnu
+  mašinu po uzoru na [[https://pharo-project.github.io/pharo-launcher/create-images/][sledeće uputstvo]]. Ukratko, izbog opcije /New/, zatim izbor stabilne verzije mašine i kreiranje slike.
+  Sačekati neko vreme da se mašina povuče sa repozitorijuma i izgradi. Nakon toga, potrebno je pokrenuti mašinu.
+  To radite selektovanjem virtualne mašine i izborom opcija /Launch/ (/play/ dugme). Detaljnije upustvo možete
+  pronaći [[https://pharo-project.github.io/pharo-launcher/launch-configurations/][ovde]].
