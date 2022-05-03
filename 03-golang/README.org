@@ -1,0 +1,11 @@
+#+title: Instalacija Golang okruženja
+#+author: Vladimir Inđić
+#+options: toc:nil
+#+options: date:nil
+
+* Instalacija Golang okruženja
+
+  Uputstvo za instalaciju Golang okruženja možete pronaći [[https://go.dev/doc/install][na zvaničnoj dokumentaciji.]] 
+  Nakon uspešne instalacije okruženja, pogledati [[https://go.dev/doc/tutorial/getting-started][uvodni tutorial]] kako biste stekli utisak
+  o tome kako se okruženje koristi.
+  Kada uspešno savladate prethodne korake, pređite na proučavanje [[https://github.com/vladaindjic/NTP-2022/blob/master/03-golang/Ve%C5%BEbe%20Golang.pdf][materijala za vežbe]].
